@@ -1,4 +1,7 @@
 ### Hi there 👋
+## About me
+* I'm a mechanical engineer by training. 
+* I am currently enrolled in the Georgia Tech Data Science Bootcamp! 
 
 <!--
 **randallwvr90/randallwvr90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
