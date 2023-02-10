@@ -4,7 +4,9 @@ I'm a data analyst with 9 years of experience in the field of mechanical enginee
 While you're here, take a look through my portfolio! I have made public a few of my projects, showcasing my work in various aspects of data analysis and visualization.<br><br>
 In my spare time, I'm also a fine art photographer. If you'd like to see my photography work, check out my website at the link below!<br><br>
 ## Other places you can find me!
+<!--
 * [My personal website](https://randallwvr90.github.io/index.html) - visit this site to see selected web-based data projects!
+-->
 * [LinkedIn](https://linkedin.com/in/weaverrandy)
 * [My photography site](https://www.randallweaverphotography.com/)
 ## Contact me
