@@ -1,7 +1,10 @@
 # Welcome to my GitHub page and portfolio!
-## About me
-I'm a manufacturing engineer and  data analyst with 12 years of experience in the field of mechanical engineering. I have had positions in custom order design, new product development, and manufacturing / process improvement. I recently completed a six-month data analysis and visualization course and I am looking at ways to incorporate my data skills into my engineering career!<br><br>
-While you're here, take a look through my portfolio! I have made public a few of my projects, showcasing my work in various aspects of data analysis and visualization.<br><br>
+## About Me
+I'm a manufacturing engineer and  data analyst. You know, if you're into labels or whatever. <br><br>
+- 🔭 I’m currently working on [the privacy vote analyzer](https://github.com/randallwvr90/privacy-vote-analyzer). I welcome collaborators!
+- 🌱 I’m currently learning how to exploit web applications (ethically and responsibly of course 😇).
+- 📚 I'm reading Joseph Menn's [Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World](https://www.betterworldbooks.com/product/detail/cult-of-the-dead-cow-how-the-original-hacking-supergroup-might-just-save-the-world-9781541762367)
+
 ## Other places you can find me!
 
 * [My personal website](https://randallwvr90.github.io/index.html) - visit this site to see selected web-based data projects!
