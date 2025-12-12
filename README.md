@@ -9,6 +9,7 @@ I'm a manufacturing engineer and  data analyst. You know, if you're into labels 
 
 * [My personal website](https://randallwvr90.github.io/index.html) - visit this site to see selected web-based data projects!
 * [LinkedIn](https://linkedin.com/in/weaverrandy)
+* [Gitlab](https://gitlab.com/randance)
 ## Contact me
 randallwvr90@gmail.com - Personal and professional inquiries
 
